@@ -1,0 +1,105 @@
+body{
+
+font-family: "Verdana";
+margin-top: 0;
+background:-webkit-linear-gradient(top,rgb(163,144,189), rgb(47,9,99));
+margin-bottom: 0;
+height: 900px;
+
+}
+
+.container{
+	border-width: 2px;
+	width: 600px;
+	height: auto;
+	background-color: white;
+	border-radius: 10px;
+	margin-left: 25%;
+	margin-top: 2%;
+	box-shadow: 2px 2px 8px gray;
+}
+
+h1{
+
+	margin-left: 140px;
+}
+
+h2{
+
+	font-size: 40px;
+	margin-left: 150px;
+
+}
+
+.process{
+
+	margin-left: 20%;
+}
+
+.infobox{
+
+	width: 350px;
+	height: 30px;
+}
+
+.ido{
+
+border-width: 0;
+border-radius: 5px;
+width: 200px;
+height: 40px;
+margin-left: 70px;
+
+}
+
+.ido:hover{
+	cursor: pointer;
+}
+
+.eyepass {
+background: url(eye.png);
+background-color: white;
+background-size: 30px;
+background-repeat: no-repeat;
+border-width: 0;
+width: 35px;
+height: 25px;
+}
+
+.eyepass:hover{
+
+	cursor: pointer;
+}
+
+.promo{
+
+margin-left: 70px;
+font-size: 12px;
+
+}
+
+.promo:hover{
+
+	cursor: pointer;
+}
+
+.gender{
+
+	font-size: 12px;
+	text-align: center;
+}
+
+.logo{
+border: 0;
+width: 100px;
+height: 100px;
+margin-left: 90%;
+margin-top: -5%;
+}
+
+.logo:hover{
+
+cursor: pointer;
+
+}
+
